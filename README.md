@@ -1,1 +1,1 @@
-# TEACHER-NOTIFICATION
+# TEACHER-NOTIFICATION  in the class room after topic student have in any double any sub topic  if more than 50 % student  same  doubt teacher got notification which topic not clear to student nned to teach again in future 
